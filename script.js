@@ -28,7 +28,7 @@ const getData = (url) => {
             console.error(error.message);
         });
 };
-getData('https://bfs01.getcourse.ru/public/files/12250/88/84120897322424565eb4cddeea2b910a.json?e=1641653999&s=ELGjZiiiz8UzS-YrnOoUZg');
+getData('https://bfs01.getcourse.ru/public/files/12250/88/84120897322424565eb4cddeea2b910a.json?e=1641671999&s=gQ9BWb6qKlfJdFgCoEMgAA');
 
 const render = (data) => {
     
